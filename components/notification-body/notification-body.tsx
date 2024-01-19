@@ -29,7 +29,7 @@ const NotificationBody = ({ notification }: { notification: notification }) => {
       <div className=" ml-20 mr-10 lg:w-[550px]">
         {notification.message &&
           notification.type == NotificationType.Message && (
-            <NotificationMessage />
+            <NotificationMessage message={notification.message} />
           )}
       </div>
     </div>
