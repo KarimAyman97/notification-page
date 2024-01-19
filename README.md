@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/KarimAyman97/notification-page]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://notification-page-vert.vercel.app/]
 
 ## My process
 
